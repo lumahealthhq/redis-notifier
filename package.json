@@ -16,8 +16,7 @@
     "extend": "~3.0.0",
     "log4js": "~0.6.9",
     "grunt-contrib-jshint": "~0.11.3",
-    "redis": "~1.0.0",
-    "hiredis": "~0.4.1"
+    "redis": "~1.0.0"
   },
   "keywords": [
     "redis",
